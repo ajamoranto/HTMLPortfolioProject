@@ -1,0 +1,38 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #DDDCDC;
+}
+.header  {
+  background-color: #0079FA;
+  position: fixed;
+  width: 100%;
+  font-family: sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.spacer  {
+    width: 100%;
+    height: 70px;
+}
+.body  {
+  background-color: #DDDCDC;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.header h1{
+  background-color: inherit;
+  color: #66D719;
+  font-size: 40px;
+  margin: 0px;
+}
+.header h2{
+  background-color: inherit;
+  color: #66D719;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: inherit;
+}
